@@ -1,0 +1,6 @@
+{
+  "name": "그 마법소녀는 구원을 바라고 있다",
+  "description": "세계관 AI 캐릭터 채팅 사이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
